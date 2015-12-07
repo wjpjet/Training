@@ -1,0 +1,1 @@
+This readme is here so git adds the negatives directory
